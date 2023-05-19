@@ -1,0 +1,4 @@
+S3-Bucket: briancabbott-terraform-in-python-bucket
+
+DynamoDB Table: "briancabbott-068062034833-terraform"
+DynamoKey:      "pk1"
