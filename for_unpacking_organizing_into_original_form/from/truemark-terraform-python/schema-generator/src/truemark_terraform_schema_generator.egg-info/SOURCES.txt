@@ -1,0 +1,16 @@
+setup.py
+terraform_schema/__init__.py
+terraform_schema/provider_schema.py
+terraform_schema/providers_schema_provider.py
+terraform_schema/schema_generator.py
+terraform_schema/schema_generator_cli.py
+terraform_schema/model/__init__.py
+terraform_schema/model/data_object.py
+terraform_schema/model/provider_object.py
+terraform_schema/model/resource_object.py
+terraform_schema/model/schema.py
+terraform_schema/model/type.py
+truemark_terraform_schema_generator.egg-info/PKG-INFO
+truemark_terraform_schema_generator.egg-info/SOURCES.txt
+truemark_terraform_schema_generator.egg-info/dependency_links.txt
+truemark_terraform_schema_generator.egg-info/top_level.txt
